@@ -1,7 +1,7 @@
 {
   "name": "com.yanyshyn.unity-tools",
   "displayName": "Unity Helper Tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2019.2",
   "keywords": [
     "Tools",
