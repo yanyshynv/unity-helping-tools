@@ -9,6 +9,11 @@ namespace UnityTools
         {
 
         }
+
+        public static float GetAnimationTime(this Animator animator, string state)
+        {
+            return 0;
+        }
     }
 }
 
