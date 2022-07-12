@@ -1,0 +1,15 @@
+{
+  "name": "com.yanyshyn.unity-tools",
+  "displayName": "Unity Helper Tools",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "keywords": [
+    "Tools",
+    "Helper"
+  ],
+  "description": "Unity Helper Tools for help unity developers",
+  "type": "library",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
